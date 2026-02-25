@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 import math
 
-url = "http://172.30.0.139:7556/video"
+url = "http://IP:port/video"
 cap = cv2.VideoCapture(url)
 
 def calcular_angulo(A, B, C):
