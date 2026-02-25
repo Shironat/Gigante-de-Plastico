@@ -14,7 +14,6 @@ void loop() {
   if (serialControl.available()) {
     String cmd = serialControl.readCommand();
 
-    // Exemplo: "OD:120"
     int separator = cmd.indexOf(':');
 
     if (separator > 0) {
