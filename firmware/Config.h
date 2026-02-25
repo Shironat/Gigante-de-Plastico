@@ -1,0 +1,14 @@
+#ifndef CONFIG_H
+#define CONFIG_H
+
+#define BAUD_RATE 9600
+
+// Pinos
+#define PIN_OMBRO_DIREITO 3
+#define PIN_COTOVELO_DIREITO 5
+#define PIN_OMBRO_ESQUERDO 6
+#define PIN_COTOVELO_ESQUERDO 9
+#define PIN_TRONCO 10
+#define PIN_PESCOCO 11
+
+#endif
