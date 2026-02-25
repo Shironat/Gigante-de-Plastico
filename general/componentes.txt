@@ -1,0 +1,9 @@
+Arduino Uno R3;
+
+Fonte de alimentação 6v 12A;
+
+Capacitor polarizado: 1000 uF, 10 V;
+
+18 cabos jumper macho-macho;
+
+6 Servo motores(ombros, cotovelos, tronco e pescoço)
